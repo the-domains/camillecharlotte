@@ -1,6 +1,6 @@
 name: Camille Charlotte
 favicon: null
-layout_spectrum: 0.17493814113549888
+layout_spectrum: 1
 typography_spectrum: 0.9694052617996931
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.16549622709862888
+    - '#ffffff'
+    - '#e68bac'
+    - '#231f20'
+    - '#cacaca'
+    - '#858585'
+  brandStrength: 0.1875
   lightness: 0.8993545102421194
   saturation: 0.38060468598268926
   rhythmicContrast: 0.4649872723966837
